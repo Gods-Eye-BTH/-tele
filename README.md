@@ -1,7 +1,7 @@
 How to setup the camera feed
 
 Choose streaming server
-1. Download and install OBS from <https://obsproject.com/sv>
+1. Download and install OBS from <https://obsproject.com>
 2. Go to settings->stream and change the "Streamtype" to "Custom Streaming Server"
 3. Enter the server you will stream to in the URL line
 
